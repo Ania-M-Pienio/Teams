@@ -58,7 +58,7 @@ React Hooks were applied to avoid the need for this(binding) and allowed state t
 
 ## `Third-Party Components with React`
 
-![GitHub Logo](https://github.com/Ania-M-Pienio/Teams/blob/master/images/preview.PNG)
+![GitHub Logo](https://github.com/Ania-M-Pienio/Teams/blob/master/images/material.png)
 Format: ![Alt Text](url)
 
 Custom Components were enhanced with Components Material-UI - an open source react UI library. It requires react and react-dom as peer dependencies. Found here: https://material-ui.com/.
