@@ -113,8 +113,7 @@ User is able to make as many tweaks to the teams or teams as they wish before ac
 Persistent storage is facilitated by MongoDB and accessed via an API created using Node.js following the Express framework.  
 Likewise, the web-server is also built using Express and Node. In addition to GitHub, the app is deployed to Heroku and can be accessed at:
 https://teams-serve.herokuapp.com/ 
-
-![GitHub Logo](https://github.com/Ania-M-Pienio/Teams/blob/master/images/express.png)
+![GitHub Logo](https://github.com/Ania-M-Pienio/Teams/blob/master/images/express.png) 
 Format: ![Alt Text](url)
 
 
