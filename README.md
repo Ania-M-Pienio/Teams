@@ -1,4 +1,4 @@
-![GitHub Logo](/images/preview.png)
+![GitHub Logo](https://github.com/Ania-M-Pienio/Teams/blob/master/images/preview.PNG)
 Format: ![Alt Text](url)
 
 
