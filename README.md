@@ -58,7 +58,8 @@ React Hooks were applied to avoid the need for this(binding) and allowed state t
 
 ## `Third-Party Components with React`
 
-Custom Components were enhanced with Components Material-UI - an open source react UI library. It requires react and react-dom as peer dependencies. 
+
+Custom Components were enhanced with Components Material-UI - an open source react UI library. It requires react and react-dom as peer dependencies. Found here: https://material-ui.com/.
 The components used required Material UI's main packages, which are:
 
     "@material-ui/core": "^4.0.0-rc.0",
