@@ -108,11 +108,14 @@ Other helpful modals include a WELCOME (blue) snackbar which shows up when the p
 
 User is able to make as many tweaks to the teams or teams as they wish before actually saving any work.  The database will not be receiving any fresh information to replace the old until the "SAVE" button is clicked. All unsaved work is stored in the front-end and managed by the state kept by the React Components. When a SAVE-click does take place, it is an action that realtes only to the particualar team that it was clicked on. So it is possible to save the work for one team , and not affect the work being done on any others. 
 
-## `Creator Notes`
+## `Database Support`
 
 Persistent storage is facilitated by MongoDB and accessed via an API created using Node.js following the Express framework.  
-Likewise, the web-server is also built using Express and Node. In addition to GitHub, the app is deployed to Heroku and can be accessed at:
-https://teams-serve.herokuapp.com/ 
+Likewise, the web-server is also built using Express and Node. 
+
+![GitHub Logo](https://github.com/Ania-M-Pienio/Teams/blob/master/images/express.png) 
+
+## `Deployed Version` located at: https://teams-serve.herokuapp.com/ 
 
 
 
